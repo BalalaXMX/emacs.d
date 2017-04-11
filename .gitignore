@@ -47,4 +47,4 @@ site-lisp/package/
 /.historian
 /.uptimes.el
 /lisp/init-elpa.el
-/README.org
+/README.md

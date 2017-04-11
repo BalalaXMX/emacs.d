@@ -7,14 +7,11 @@ This configuration is forked from [[https://github.com/purcell/emacs.d][purcell/
 Ruan command in your shell:
 
 #+BEGIN_SRC
-
 git clone https://github.com/YuanPre/emacs.d.git ~/.emacs.d
-
 #+END_SRC
-
 
 * Others
 
-See [[https://github.com/purcell/emacs.d.git][Purcell's README]]
+See [[https://github.com/purcell/emacs.d/blob/master/README.md][Purcell's README]]
 
 *EOF*
