@@ -2,7 +2,7 @@
 
 This configuration is forked from [[https://github.com/purcell/emacs.d][purcell/emacs.d]] . I change the elpa repos to [[https://emacs-china.org][Emacs-China]]
 
-* INSTALL
+* Install
 
 Run command in your shell:
 
