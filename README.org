@@ -1,0 +1,20 @@
+* Feature
+
+This configuration is forked from [[https://github.com/purcell/emacs.d][purcell/emacs.d]] . I change the elpa repos to [[https://emacs-china.org][Emacs-China]]
+
+* INSTALL
+
+Ruan command in your shell:
+
+#+BEGIN_SRC
+
+git clone https://github.com/YuanPre/emacs.d.git ~/.emacs.d
+
+#+END_SRC
+
+
+* Others
+
+See [[https://github.com/purcell/emacs.d.git][Purcell's README]]
+
+*EOF*

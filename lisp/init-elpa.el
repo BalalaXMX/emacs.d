@@ -18,7 +18,7 @@
 
 ;; We include the org repository for completeness, but don't normally
 ;; use it.
-(add-to-list 'package-archives '("org" . "http://orgmode.org/elpa/"))
+(add-to-list 'package-archives '("org" . "https://elpa.emacs-china.org/org/"))
 
 
 (defconst sanityinc/no-ssl (and (memq system-type '(windows-nt ms-dos))
@@ -27,11 +27,11 @@
 ;;; Also use Melpa for most packages
 (add-to-list 'package-archives
              `("melpa" . ,(if sanityinc/no-ssl
-                              "http://melpa.org/packages/"
-                            "https://melpa.org/packages/")))
+                              "http://elpa.emacs-china.org/melpa/"
+                            "https://elpa.emacs-china.org/melpa/")))
 
 ;; NOTE: In case of MELPA problems, the official mirror URL is
-;; https://www.mirrorservice.org/sites/stable.melpa.org/packages/
+;; https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/
 
 
 
