@@ -4,11 +4,14 @@ This configuration is forked from [[https://github.com/purcell/emacs.d][purcell/
 
 * INSTALL
 
-Ruan command in your shell:
+Run command in your shell:
 
 #+BEGIN_SRC
 git clone https://github.com/YuanPre/emacs.d.git ~/.emacs.d
 #+END_SRC
+
+Upon starting up Emacs for the first time, further third-party packages will be automatically downloaded and installed.
+If you encounter any errors at that stage, try restarting Emacs, and possibly running  *M-x package-refresh-contents* before doing so.
 
 * Others
 
