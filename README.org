@@ -18,3 +18,4 @@ If you encounter any errors at that stage, try restarting Emacs, and possibly ru
 See [[https://github.com/purcell/emacs.d/blob/master/README.md][Purcell's README]]
 
 *EOF*
+#+begin_verser M-x List #+end_verse
