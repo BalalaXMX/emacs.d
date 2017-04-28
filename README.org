@@ -7,7 +7,7 @@ This configuration is forked from [[https://github.com/purcell/emacs.d][purcell/
 Run command in your shell:
 
 #+BEGIN_SRC
-git clone https://github.com/YuanPre/emacs.d.git ~/.emacs.d
+git clone https://github.com/YuanPres/emacs.d.git ~/.emacs.d
 #+END_SRC
 
 Upon starting up Emacs for the first time, further third-party packages will be automatically downloaded and installed.
